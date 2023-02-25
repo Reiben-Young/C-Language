@@ -1,2 +1,2 @@
 # C-Language
-This repository was made by recording my note of C language!
+This repository was made to recorde my note of C language!
