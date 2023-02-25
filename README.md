@@ -1,5 +1,5 @@
 # C-Language
-This repository was made to recorde my note of C language!
+This repository was made by recording my note of C language!
 
 1st：C语言的第一个代码：Hello World！
 
